@@ -11,5 +11,6 @@ public class Main{
 
         // BigInteger는 일반적인 연산자를 사용할 수 없으므로 add 메소드를 이용하여 계산
         System.out.println(A.add(B));
+        scanner.close();
     }
 }
