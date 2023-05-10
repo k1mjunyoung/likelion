@@ -1,3 +1,4 @@
+package week1.boj14909;
 /* Scanner 사용 시 너무 오래걸림..
 import java.util.Scanner;
 
@@ -25,8 +26,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main{
-    public static void main(String[] args) throws IOException{
+public class boj14909 {
+    public static void main(String[] args) throws IOException {
         InputStream input = System.in;
         InputStreamReader reader = new InputStreamReader(input);
         BufferedReader buffer = new BufferedReader(reader);
@@ -36,16 +37,15 @@ public class Main{
         int size = 0;
         int cnt = 0;
 
-        while(tokenizer.hasMoreTokens()){
+        while (tokenizer.hasMoreTokens()) {
             size++;
         }
 
         int[] arr = new int[size];
 
-        for(i = 0; i < size; i++){
+        for (i = 0; i < size; i++) {
             arr[i] = Integer.parseInt(tokenizer.nextToken());
-            if(arr[i] > 0)
-            {
+            if (arr[i] > 0) {
                 cnt++;
             }
         }
