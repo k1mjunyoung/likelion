@@ -1,4 +1,4 @@
-package week3.session;
+package week3;
 
 import java.util.HashMap;
 

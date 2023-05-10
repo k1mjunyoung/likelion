@@ -1,4 +1,4 @@
-package week1.boj14909;
+package week1;
 /* Scanner 사용 시 너무 오래걸림..
 import java.util.Scanner;
 

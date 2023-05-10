@@ -1,4 +1,4 @@
-package week2.boj27866;
+package week2;
 
 import java.util.Scanner;
 import java.lang.String;

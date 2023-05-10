@@ -1,4 +1,4 @@
-package week1.boj2446;
+package week1;
 // 입력값을 받기 위해 Scanner 클래스 호출
 import java.util.Scanner;
 

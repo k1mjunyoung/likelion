@@ -1,4 +1,4 @@
-package week2.boj1463;
+package week2;
 /* 처음 푼 방식 -> 실패(최소값을 찾지 못함)
 /*
 public class Main {

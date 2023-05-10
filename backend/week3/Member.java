@@ -1,4 +1,4 @@
-package week3.assignment;
+package week3;
 
 class Member {
     private String id;

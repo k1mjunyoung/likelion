@@ -1,4 +1,4 @@
-package week1.boj10757;
+package week1;
 
 // 입력 예시 값이 long 자료형이 표현할 수 있는 값을 넘어섬
 // long 자료형보다 큰 값을 처리하기 위해 BigInteger 클래스 호출
