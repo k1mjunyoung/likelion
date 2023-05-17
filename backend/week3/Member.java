@@ -23,4 +23,10 @@ class Member {
     public void setPoint(int point) {
         this.point = point;
     }
+
+    Member(String id, String name, int point) {
+        this.id = id;
+        this.name = name;
+        this.point = point;
+    }
 }
